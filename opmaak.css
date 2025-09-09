@@ -17,9 +17,12 @@ p{
     text-align: center;
 }
 
-ul{
+ul  :link{
     background-color: crimson;
     color: aliceblue;
+}
+ul :visited{
+    
 }
 
 ul :hover{
