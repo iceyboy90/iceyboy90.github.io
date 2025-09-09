@@ -16,3 +16,11 @@ p{
     font-size: medium;
     text-align: center;
 }
+a{
+    background-color: crimson;
+    color: aliceblue;
+}
+a :hover{
+    background-color: aliceblue;
+    color: crimson;
+}
