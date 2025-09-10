@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(21, 126, 179);
+    background-color: rgb(228, 208, 156);
 }
 
 h2 {
@@ -21,8 +21,9 @@ ul  :link{
     background-color: crimson;
     color: aliceblue;
 }
+
 ul :visited{
-    
+
 }
 
 ul :hover{
