@@ -36,4 +36,5 @@ ul :hover{
 
 ul{
     list-style-type: none;
+    font-weight: 300;
 }
