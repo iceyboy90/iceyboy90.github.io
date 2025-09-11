@@ -19,7 +19,7 @@ p{
 
 
 
-ul{
+ul li {
     font-size: larger;
     list-style-type: none;
     margin: 0;
@@ -29,10 +29,10 @@ ul{
     background-color: rgb(0, 0, 0);
 }
 
-ul li{
+ul li a {
     float: left;
 }
 
-ul :hover{
+ul li a:hover{
     background-color: rgba(0, 0, 0, 0.374);
 }
