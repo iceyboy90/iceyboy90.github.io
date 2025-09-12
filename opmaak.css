@@ -43,4 +43,5 @@ ul li a {
 
 ul li a:hover {
     background-color: rgba(0, 0, 0, 0.374);
+    color: beige;
 }
