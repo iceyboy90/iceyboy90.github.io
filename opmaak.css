@@ -41,6 +41,6 @@ ul li a {
     padding-bottom: 16px;
 }
 
-ul li :hover {
+ul li a :hover {
     background-color: rgba(0, 0, 0, 0.374);
 }
