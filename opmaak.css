@@ -33,7 +33,7 @@ ul li {
 }
 
 ul li a {
-    color: aliceblue;
+    color: white;
     text-decoration: none;
     font-size: larger;
     text-align: center;
@@ -42,5 +42,5 @@ ul li a {
 
 ul li a:hover {
     background-color: darkgrey;
-    color: beige;
+    color: white;
 }
