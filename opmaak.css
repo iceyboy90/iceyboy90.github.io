@@ -56,6 +56,14 @@ iframe{
     margin: auto;
 }
 
+#HOME{ 
+    background-image: url("images\ \(1\).jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 #thailand{
     background-image: url("thailand-pic.avif");
     background-size: cover;
