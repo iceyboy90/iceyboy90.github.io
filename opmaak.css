@@ -58,4 +58,8 @@ iframe{
 
 #thailand{
     background-image: url("thailand-pic.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
