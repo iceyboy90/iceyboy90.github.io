@@ -20,6 +20,15 @@ p{
     font-family: cursive;
     font-size: medium;
     text-align: center;
+
+}
+
+div{ 
+    position: fixed;
+    align-items: center;
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
 }
 
 ul {
@@ -57,7 +66,7 @@ iframe{
 }
 
 #HOME{ 
-    background-image: url("the hand of god1.jpeg");
+    background-image: url("images/the\ hand\ of\ god1.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,7 +74,7 @@ iframe{
 }
 
 #thailand{
-    background-image: url("thailand-pic.avif");
+    background-image: url("images/thailand-pic.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
