@@ -27,8 +27,12 @@ div{
     position: fixed;
     align-items: center;
     background-color: beige;
+    width: 200px;
     margin: 20px;
     padding: 20px;
+    font-family: cursive;
+    font-size: medium;
+    text-align: center;
 }
 
 ul {
