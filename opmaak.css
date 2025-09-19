@@ -22,11 +22,15 @@ p{
     font-family: cursive;
     font-size: medium;
     text-align: center;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+    background-color: beige;
+    background-position: center;
 
 }
 
 div{ 
-    position: fixed;
     background-position: center;
     background-color: beige;
     width: 200px;
