@@ -1,6 +1,7 @@
 body {
     background-color: rgb(228, 208, 156);
 }
+
 h1 {
     color: black;
     text-align: center;
@@ -31,11 +32,8 @@ p{
 }
 
 div{ 
-    display: block;
     background-color: beige;
-    width: 200px;
-    margin: auto;
-    padding: 20px;
+    padding: 5px;
     font-family: cursive;
     font-size: medium;
     text-align: center;
