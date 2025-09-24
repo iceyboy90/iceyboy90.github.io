@@ -89,3 +89,11 @@ iframe{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+#binairy{
+    background-image: url("images/fantasy-eye-illustrated.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
