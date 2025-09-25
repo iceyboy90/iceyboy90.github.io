@@ -91,6 +91,14 @@ ul li a:hover {
 }
 
 #binairy{
+    background-image: url("images/pngtree-digital-stream-or-binary-code-data-on-matrix-background-image_1326386.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#computers{
     background-image: url("images/fantasy-eye-illustrated.jpg");
     background-size: cover;
     background-position: center;
