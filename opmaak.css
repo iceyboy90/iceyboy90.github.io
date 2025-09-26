@@ -1,14 +1,14 @@
-body {
-    background-color: rgb(228, 208, 156);
+body {/*Hier kan je de body aanpassen*/
+    background-color: rgb(228, 208, 156);/*achtergrond kleur*/
 }
 
-h1 {
-    color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: x-large;
+h1 {/*hier pas je h1 aan*/
+    color: black; /*de text kleur aanpassen*/
+    text-align: center;/*de text wordt in het midden geplaatst*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;/*lettertype*/
+    font-size: x-large;/*de letter grote*/
     background-color: beige;
-    padding: 20px;
+    padding: 20px;/*de hoeveelheid pixels die tussen de text in het element zitten en de rand van het element*/
 }
 
 h2 {
@@ -18,20 +18,20 @@ h2 {
     font-size: x-large;
 }
 
-p{
+p{/*hier pas je de p aan*/
     color: black;
     font-family: cursive;
     font-size: medium;
     text-align: center;
-    width: 200px;
-    margin: 20px;
+    width: 200px;/*hoe breed het element is*/
+    margin: 20px;/*hoe veel pixels er om het element heen zitten*/
     padding: 20px;
     background-color: beige;
     background-position: center;
 
 }
 
-div{ 
+div{ /*hier pas je de div aan*/
     background-color: beige;
     padding: 5px;
     font-family: cursive;
@@ -40,23 +40,23 @@ div{
     color: black;
 }
 
-ul {
-    list-style-type: none;
+ul { /*hier pas je de ul aan*/
+    list-style-type: none;/*lijst type*/
     margin: 0;
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0;
     padding-right: 0;
-    overflow: hidden;
+    overflow: hidden;/*als het te groot is dan blijft het hidden*/
     background-color: rgb(0, 0, 0);
     text-align: center;
 }
 
-ul li {
+ul li {/*hier pas je de p aan*/
     float: left;
 }
 
-ul li a {
+ul li a {/*hier pas je de p aan*/
     display: block;
     color: white;
     text-decoration: none;
@@ -65,24 +65,24 @@ ul li a {
     padding: 14px 16px;
 }
 
-ul li a:hover {
+ul li a:hover {/*hier pas je de p aan*/
     background-color: darkgrey;
     color: white;
 }
 
-#binairy-bonanza{
-    object-position: center;
+#binairy-bonanza{/*hier pas je het element de de id binairy-bonanza aan*/
+    margin: auto;
 }
 
-#HOME{ 
-    background-image: url("images/the\ hand\ of\ god1.jpeg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+#HOME{ /* Hier doe ik een achter grond instellen voor de body met de id HOME */
+    background-image: url("images/the\ hand\ of\ god1.jpeg");/*achtergrond afbeelding*/
+    background-size: cover;/*Het hele beeld vullen met de afbeelding*/
+    background-position: center;/*Positie naar het midden brengen*/
+    background-repeat: no-repeat;/*Niet laten herhalen*/
+    background-attachment: fixed;/*zorgt er voor dat het niet gaat glitc*/
 }
 
-#thailand{
+#thailand{ /* Hier doe ik een achter grond instellen voor de body met de id thailand */
     background-image: url("images/thailand-pic.avif");
     background-size: cover;
     background-position: center;
@@ -90,7 +90,7 @@ ul li a:hover {
     background-attachment: fixed;
 }
 
-#binairy{
+#binairy{ /* Hier doe ik een achter grond instellen voor de body met de id binairy */
     background-image: url("images/pngtree-digital-stream-or-binary-code-data-on-matrix-background-image_1326386.jpg");
     background-size: cover;
     background-position: center;
@@ -98,7 +98,7 @@ ul li a:hover {
     background-attachment: fixed;
 }
 
-#computers{
+#computers{ /* Hier doe ik een achter grond instellen voor de body met de id computers */
     background-image: url("images/fantasy-eye-illustrated.jpg");
     background-size: cover;
     background-position: center;
@@ -106,7 +106,7 @@ ul li a:hover {
     background-attachment: fixed;
 }
 
-footer{
+footer{ /* Hier staat hoe de footer er uit moet komen te zien */
     position: fixed;
     bottom: 0;
     left: 0;
