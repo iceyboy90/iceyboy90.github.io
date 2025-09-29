@@ -39,7 +39,7 @@ div{ /*hier pas je de div aan*/
     text-align: center;
     color: black;
     float: right;
-    margin: 50%;
+    width: 50%;
 }
 
 ul { /*hier pas je de ul aan*/
