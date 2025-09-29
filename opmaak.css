@@ -38,6 +38,8 @@ div{ /*hier pas je de div aan*/
     font-size: medium;
     text-align: center;
     color: black;
+    float: left;
+    margin: 50%;
 }
 
 ul { /*hier pas je de ul aan*/
