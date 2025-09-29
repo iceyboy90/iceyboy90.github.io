@@ -38,7 +38,7 @@ div{ /*hier pas je de div aan*/
     font-size: medium;
     text-align: center;
     color: black;
-    float: left;
+    float: right;
     margin: 50%;
 }
 
