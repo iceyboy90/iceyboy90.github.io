@@ -18,7 +18,7 @@ h2 {
     font-size: x-large;
 }
 
-p{/*hier pas je de p aan*/
+p {/*hier pas je de p aan*/
     color: black;
     font-family: cursive;
     font-size: medium;
@@ -31,7 +31,7 @@ p{/*hier pas je de p aan*/
 
 }
 
-div{ /*hier pas je de div aan*/
+div { /*hier pas je de div aan*/
     background-color: beige;
     padding: 5px;
     font-family: cursive;
@@ -42,7 +42,7 @@ div{ /*hier pas je de div aan*/
     width: 45%;
 }
 
-.image{ 
+.image { 
     float: left;
     width: 45%;
 }
