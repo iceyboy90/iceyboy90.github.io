@@ -41,6 +41,10 @@ div{ /*hier pas je de div aan*/
     float: right;
     width: 50%;
 }
+img{ 
+    float: left;
+    width: 50%;
+}
 
 ul { /*hier pas je de ul aan*/
     list-style-type: none;/*lijst type*/
