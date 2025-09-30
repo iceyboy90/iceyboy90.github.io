@@ -42,12 +42,12 @@ div { /*hier pas je de div aan*/
     width: 45%;
 }
 
-.image { 
+.image { /*hier pas je de class image aan*/
     float: left;
     width: 45%;
 }
 
-.compressie {
+.compressie { /*hier pas je de class compressie aan*/
     width: 45%;
 }
 
