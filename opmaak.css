@@ -47,6 +47,10 @@ div { /*hier pas je de div aan*/
     width: 45%;
 }
 
+.compressie {
+    width: 45%;
+}
+
 ul { /*hier pas je de ul aan*/
     list-style-type: none;/*lijst type*/
     margin: 0;
